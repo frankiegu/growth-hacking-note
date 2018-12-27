@@ -3,8 +3,8 @@
 * 获取用户。[获取用户](获得用户.md)
   * 线上：[获取流量](获得流量.md)
   * 线下：地推。
-* 拉新：转化成用户。
 * 提高活跃度：做活动，利益诱导（发优惠，打折券之类）。
+* 使用户付费。
 
 对应的指标
 * 来源量：用户数。
@@ -19,7 +19,7 @@
 * 留存率：转化成老客户的比率。
 
 
-## 内容
+## 内容运营
 ### [简单改一下标题，竟让文章阅读量翻4倍！](https://mp.weixin.qq.com/s?__biz=MzA3MDk4NzMzNg==&mid=2651718049&idx=3&sn=1d6e984452f321556966531fbc0e033c&chksm=84ceda86b3b953900caad49b7dd1892712b924ac1851738e66d2307fccb46dc62b59a654a988&mpshare=1&scene=1&srcid=082999Z1vcbLshBGkyu2lQqa&key=5bd52544ea7dc71b21746c48da251565d4c55924b08d356e78073e0a1de011ce81c80c20785d64c9eaeb36dc9c12f108f904338d51b6f9cbede19f277e9d381904ceb9f0dd7f67dfe4ccdcca33904240&ascene=0&uin=NDI4NTMwNTE1&devicetype=iMac+MacBookAir7%2C2+OSX+OSX+10.11.6+build(15G31)&version=12020610&nettype=WIFI&fontScale=100&pass_ticket=uqWYIrMEG1QzreU%2BU74hsJah5039Wuy%2FRhWoiJUIG3MmZ9dA1uaqyG27fRQxpI5C)
 
 标题1：微信公众号排版最基本配置！我基本告别微信排版编辑器了！（知识干货型标题更能刺激阅读用户的收藏。    
@@ -36,6 +36,7 @@
 
 所谓认知闭合，简单来说就是在相对不确定或者不稳定的信息中，个体更倾向于找到一个简单明确的答案来避免焦虑感。
 
+## 用户运营
 ## 社群
 ### [关于“社群运营”，你需要知道的都在这里了](https://mp.weixin.qq.com/s?__biz=MzI2NTY4MDg1NA==&mid=2247488140&idx=1&sn=b7cc713145114990c199d76f1232605a&key=c32c17d7706c6e26770800d25d861c87b02ef9ab4f5f4a6c63f90de8196f423920bc301723c5d1e96a6492e062e44c4019796543df0a0481d2ade7b231535fbfd70a2c1c826ad6cec38c2ad778460dba&ascene=0&uin=NDI4NTMwNTE1&devicetype=iMac+MacBookAir7%2C2+OSX+OSX+10.11.6+build(15G31)&version=12020610&nettype=WIFI&fontScale=100&pass_ticket=aHI9cxUgSqB6Fwcha25EMoUQC3mFNSzoUAeNbfeIx3jNfAKdgqn4vfYW2wOTBht2)
 
@@ -60,4 +61,7 @@
 
 举出之前成员的身份、故事、评价。每一个优秀的成员展示，都让你对这个社群产生了极大的期待，你会认为参加该活动的都是牛人，你也想跻身于牛人之中。实际上这个广告对于实际活动内容讲的并不详细，只给出了框架。但它根本不需要说，因为它已经用成员之间交互来展现它的高价值，你也将用你认为最好的情景开始脑补。
 
+
+## 数据分析
+* [技能点](data-analysis/skill-tree.md)
 
