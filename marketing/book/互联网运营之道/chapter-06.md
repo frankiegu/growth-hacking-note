@@ -28,13 +28,13 @@
 * 平均值。
 
 ## 绘制数据图标
-![imgs/06/choose-chat.jpeg]
+![](imgs/06/choose-chat.jpeg)
 
 ## 常见的数据统计平台
 * 网站分析工具
   * [谷歌统计](http://www.google.cn/intl/zh-CN_ALL/analytics/index.html)
   * [百度统计](http://tongji.baidu.com/)
-  * [CNZZ]:(http://www.cnzz.com/)
+  * [CNZZ](http://www.cnzz.com/)
   * [Alexa](www.alexa.com/)
 * App数据平台
   * [App Annie](https://www.appannie.com/cn/)
