@@ -17,7 +17,7 @@
   * 电商类：销售额/总用户
   * 游戏类：收入额/总用户
 * 留存率：转化成老客户的比率。
-
+* 投入产出比。 包括 LTV 的考量(life time value 生命周期总价值)。
 
 ## 内容运营
 ### [简单改一下标题，竟让文章阅读量翻4倍！](https://mp.weixin.qq.com/s?__biz=MzA3MDk4NzMzNg==&mid=2651718049&idx=3&sn=1d6e984452f321556966531fbc0e033c&chksm=84ceda86b3b953900caad49b7dd1892712b924ac1851738e66d2307fccb46dc62b59a654a988&mpshare=1&scene=1&srcid=082999Z1vcbLshBGkyu2lQqa&key=5bd52544ea7dc71b21746c48da251565d4c55924b08d356e78073e0a1de011ce81c80c20785d64c9eaeb36dc9c12f108f904338d51b6f9cbede19f277e9d381904ceb9f0dd7f67dfe4ccdcca33904240&ascene=0&uin=NDI4NTMwNTE1&devicetype=iMac+MacBookAir7%2C2+OSX+OSX+10.11.6+build(15G31)&version=12020610&nettype=WIFI&fontScale=100&pass_ticket=uqWYIrMEG1QzreU%2BU74hsJah5039Wuy%2FRhWoiJUIG3MmZ9dA1uaqyG27fRQxpI5C)
