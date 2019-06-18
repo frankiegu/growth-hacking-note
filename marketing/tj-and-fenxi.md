@@ -8,3 +8,5 @@
 
 ## 工具
 * [百度统计](https://tongji.baidu.com/web/welcome/products) 网站统计，移动统计(Android端，iOS端，小程序)，高级分析。
+* [百计移动统计使用指南](https://mtj.baidu.com/static/userguide/book/)
+* [百度统计demo](https://tongji.baidu.com/web/demo/overview/index?siteId=5503017)
