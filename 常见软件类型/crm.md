@@ -36,7 +36,7 @@
   * 手下销售的合同和回款
 
 ## 适合某个行业的CRM调研
-* 做哪个行业的CRM？对CRM的渴求程度。
+* 做哪个行业的CRM？[哪个行业最需要CRM？](https://www.zhihu.com/search?type=content&q=%E5%93%AA%E4%B8%AA%E8%A1%8C%E4%B8%9A%E6%9C%80%E9%9C%80%E8%A6%81crm)
 * 各个行业有哪些做的好的CRM？
 * 把这个行业的CRM找出来，做分析
 * 如何找找到用户
